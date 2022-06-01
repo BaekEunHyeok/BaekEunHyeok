@@ -1,32 +1,6 @@
-# 안녕
-## 안녕2
-### 안녕3
-
-
-# Computer Vision
-
-## Image Classfication
-
-### Alexnet
-#### asdasd
-
-
-## Object Detecation
-
-### YOLO V1
-#### dasdasd
-
-
-# Generative Adversarial Networks
-
-### Generative Adversarial Networks
-
-### Neural Transformer
-
-
-# Reinforcement Learning
-
-### DQN
-
-
-test
+Hello, I'm EunHyeok Baek.  
+My interesting is statistics, statistical learning, machine learning.  
+  
+I have a bachelor's degree in chemistry. (2016-2021)
+I am master's student in ECE. (2022-)  
+ 
